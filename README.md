@@ -3,11 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-swastikb@wolfram.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastikb@wolfram.com)](mailto:swastikb@wolfram.com)
 
 ## Hi 👋, 
-I'm Swastik Banerjee, I'm one of the Search Developers of Wolfram|Alpha 👨‍💻 who is equally passionate about algorithms and applied cryptography. I'm also a self procliamed singer/songwriter 
-🏄‍♂️. 
+I'm Swastik Banerjee, I'm one of the Search Developers of Wolfram|Alpha 👨‍💻 who is equally passionate about algorithms and applied cryptography. I'm also a self procliamed singer/songwriter 🎵 
 
 - 🔭 I’m currently working on website indexing and other related search applications and maintenance of various internal and external websites of Wolfram, and on Differential Privacy in collaboration with IBM Research
-- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about: crypto, algos, music, theatre
 - 😄 Pronouns: he/him
 -  ⚡ Languages: C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
