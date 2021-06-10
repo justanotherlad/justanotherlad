@@ -14,4 +14,3 @@ I'm Swastik Banerjee, I'm one of the Search Developers of Wolfram|Alpha 👨‍�
 
 
 ---
- From [KunalRaghav](https://github.com/KunalRaghav)
