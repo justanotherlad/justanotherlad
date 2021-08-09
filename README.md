@@ -6,7 +6,7 @@
 I'm Swastik Banerjee, I'm one of the Search Developers of Wolfram|Alpha 👨‍💻 who is equally passionate about algorithms and applied cryptography. I'm also a self procliamed singer/songwriter 🎵 
 
 - I’m currently working on website indexing and other related search applications and maintenance of various internal and external websites of Wolfram, and on Differential Privacy in collaboration with IBM Research India.
-- Ask me about: crypto, algos, music, theatre
+- Ask me about: search-engine optimization, crypto, algorithms, music
 - Pronouns: he/him
 - Languages: C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
 
