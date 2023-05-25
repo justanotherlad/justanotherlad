@@ -3,9 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-swastikb@wolfram.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastikb@wolfram.com)](mailto:swastikb@wolfram.com)
 
 ## Hi, 
-I'm Swastik Banerjee, I'm the Search Engineer of Wolfram Research,Inc. 👨‍💻 , who is equally passionate about algorithms and applied cryptography. alt career: singer/songwriter of an indie band based in Kolkata 🎵 
+I'm Swastik Banerjee, I'm the Lead Search Developer of Wolfram Research,Inc. 👨‍💻 , who is equally passionate about algorithms and applied cryptography. alt career: singer/songwriter of an indie band based in Kolkata 🎵 
 
-- I’m currently working on website indexing, boosting relevance for search queries, documentation search-engine optimization, and other related search applications, bugs and maintenance of various external and internal websites of Wolfram; previously associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation.
+- I’m currently working in the Document Technology team on Search projects and priorities, including new LLM integration effort, swebsite indexing, boosting relevance for search queries, documentation search-engine optimization, and other related search applications, bugs and maintenance of various external and internal websites of Wolfram; previously associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation.
 - Pronouns: he/him
 - Ask me about: search, cryptography (the right kinda "crypto"), algorithms, music-making
 - Languages: C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
