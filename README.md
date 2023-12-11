@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-swastikb@wolfram.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastikb@wolfram.com)](mailto:swastikb@wolfram.com)
 
 ## Hi, 
-I'm Swastik Banerjee, I'm the Lead Search Developer at Wolfram Research,Inc. I have an interest in Information Retrieval, Conversational systems, and some prior research experience in Theoretical/Applied Cryptography.
+I'm Swastik Banerjee, I'm the Lead Search Developer at Wolfram Research,Inc. I have an interest in Information Retrieval, Privacy-Preserving systems, and some prior research experience in Theoretical/Applied Cryptography.
 - my current work is focused on improving Search Relevance, Ranking and building transformer based models for Search for the documentation of Mathematica(software) and other wolfram org. websites, in collaboration with their Web and core ML team; I was previously associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation.
 - Pronouns: he/him
 - Ask me about: search science, cryptography (the right kinda "crypto"), computational art/music-making
