@@ -1,13 +1,14 @@
 # Swastik Banerjee
 [![Twitter Badge](https://img.shields.io/badge/-@_justanotherlad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_justanotherlad)](https://twitter.com/_justanotherlad) [![Linkedin Badge](https://img.shields.io/badge/-justanotherlad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justanotherlad/)](https://www.linkedin.com/in/justanotherlad/) [![Medium Badge](https://img.shields.io/badge/-@justanotherlad-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://justanotherlad.medium.com/)](https://justanotherlad.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-swastikb@wolfram.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swastikb@wolfram.com)](mailto:swastikb@wolfram.com)
+[![Gmail Badge](https://img.shields.io/badge/-b98swastik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b98swastik@gmail.com)](mailto:b98swastik@gmail.com)
 
 ## Hi, 
-I'm Swastik Banerjee, I'm the Lead Search Developer at Wolfram Research,Inc. I have an interest in Information Retrieval, Privacy-Preserving systems, and some prior research experience in Theoretical/Applied Cryptography.
-- my current work is focused on improving Search Relevance, Ranking and building transformer based models for Search for the documentation of Mathematica(software) and other wolfram org. websites, in collaboration with their Web and core ML team; I was previously associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation.
+I'm Swastik Banerjee, I'm a Software Engineer at **Microsoft** Bing (Hyderabad, India).
+Previously, I had been the Lead Search Developer at Wolfram|Alpha. I have an interest in Information Retrieval, Privacy-Preserving systems, and some prior research experience in Theoretical/Applied Cryptography.
+- I have worked in the industry on improving Search Relevance, Ranking and building transformer based models for documentation-search  and supporting search-engines found in websites; at some point I was associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation. At some point, I'd like to work on the amalgamation of two , i.e., privacy-preserving search engines (see more [here](https://www.quantamagazine.org/cryptographers-devise-an-approach-for-total-search-privacy-20231106/))
 - Pronouns: he/him
 - Ask me about: search science, cryptography (the right kinda "crypto"), computational art/music-making
-- Languages: C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
+- Languages: C#, C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
 
 <br>
 
