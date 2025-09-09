@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-b98swastik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b98swastik@gmail.com)](mailto:b98swastik@gmail.com)
 
 ## Hi, 
-I'm Swastik Banerjee, I'm a Software Engineer at **Microsoft** Bing (📍Hyderabad, India). <br>
+I'm Swastik Banerjee, I'm a Software Engineer at **Microsoft** AI (Bing/Copilot Search) 📍Hyderabad, India. <br>
 Previously, I had been the Lead Search Developer at Wolfram|Alpha. <br>
 I have an interest in Information Retrieval, Privacy-Preserving systems, and some prior research experience in Theoretical/Applied Cryptography.
-- I have worked in the industry on improving Search Relevance, Ranking and building transformer based models for documentation-search  and supporting search-engines found in websites; at some point I was associated with IBM Research India as a project assistant working on Differential Privacy and Multi-Party Computation. At some point, I'd like to work on the amalgamation of the two , i.e., privacy-preserving search engines (see more [here](https://www.quantamagazine.org/cryptographers-devise-an-approach-for-total-search-privacy-20231106/))
+- I have worked in the industry for 4+ years now on developing and maintaining high-QPS and low-latency (backend) systems handling Search Relevance, Ranking, e2e RAG systems (hybrid search, i.e., lexical + semantic using dense retrieval/vector-embeddings and sparse/BM25) and maximizing user experience & engagement by handling the UX/Frontend of bing.com (**People Also Ask** answer) and search.wolfram.com websites; at some point I was associated with IBM Research India as a part-time research assistant working on Differential Privacy and Multi-Party Computation. In future, I'd like to work on the union of privacy & search, i.e., privacy-preserving search-engines (see more [here](https://www.quantamagazine.org/cryptographers-devise-an-approach-for-total-search-privacy-20231106/))
 - Pronouns: he/him
 - Ask me about: search science, cryptography (the right kinda "crypto"), computational art/music-making
 - Languages: C#, C, C++, Java, Python, JavaScript, HTML&CSS, SQL, Assembly, Mathematica, MATLAB
